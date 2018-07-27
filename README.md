@@ -1,2 +1,2 @@
 # udp_py_simulink
-Send and Receive UDP Layer between Python and Simulink
+Example of Send and Receive UDP Layer between Python and Simulink
